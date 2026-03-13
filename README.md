@@ -48,13 +48,13 @@ const nandu = {
 
 I'm a passionate **MERN Stack Developer** who loves crafting **high-performance, scalable web applications** that solve real problems. I thrive at the intersection of clean code, thoughtful architecture, and seamless user experiences.
 
-- 🔭 &nbsp; Currently building **[ProjectFlow](#-current-project--projectflow)** — a multi-tenant SaaS for scrum teams
+- 🔭 &nbsp; Currently building **[ProjectFlow](https://github.com/Nandusuresh61/ProjectFlow-PMT)** — a multi-tenant SaaS for scrum teams
 - 🌱 &nbsp; Deepening expertise in **Microservices**, **System Design** & **DevOps**
 - ⚡ &nbsp; Stack of choice: **MongoDB · Express · React · Node.js**
 - 🧠 &nbsp; Exploring **Redis**, **WebSockets**, and **event-driven architecture**
 - 💡 &nbsp; Passionate about **open source**, contributing and learning in the wild
 - 🎯 &nbsp; Goal: Ship products that are fast, reliable, and beautiful
-
+git 
 <br clear="right"/>
 
 ---
@@ -136,21 +136,21 @@ Infra    → Docker + Nginx
 
 <div align="center">
 
-| Feature | Status |
-|---|---|
-| 🏢 Multi-tenant workspace management | ✅ Live |
-| 🗂️ Scrum boards — sprints, backlogs, epics | ✅ Live |
-| 🎫 Ticket system with priorities & assignments | ✅ Live |
-| 💬 Real-time team chat | 🔨 In Progress |
-| 📹 Integrated video meetings | 🔨 In Progress |
-| 💳 Subscription billing with Stripe | ✅ Live |
-| 📊 Team analytics dashboard | 🗓️ Planned |
+| Feature                                        | Status         |
+| ---------------------------------------------- | -------------- |
+| 🏢 Multi-tenant workspace management           | ✅ Live        |
+| 🗂️ Scrum boards — sprints, backlogs, epics     | ✅ Live        |
+| 🎫 Ticket system with priorities & assignments | ✅ Live        |
+| 💬 Real-time team chat                         | 🔨 In Progress |
+| 📹 Integrated video meetings                   | 🔨 In Progress |
+| 💳 Subscription billing with Stripe            | ✅ Live        |
+| 📊 Team analytics dashboard                    | 🗓️ Planned     |
 
 </div>
 
 <br/>
 
-> *"Built with Clean Architecture — Use Cases, Repositories, Entities — fully decoupled and production-ready."*
+> _"Built with Clean Architecture — Use Cases, Repositories, Entities — fully decoupled and production-ready."_
 
 ---
 
@@ -194,7 +194,7 @@ Infra    → Docker + Nginx
 
 <div align="center">
 
-<a href="https://linkedin.com/in/nandu" target="_blank">
+<a href="https://www.linkedin.com/in/nandu-suresh-264599347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
@@ -202,17 +202,17 @@ Infra    → Docker + Nginx
   <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff&labelColor=0d1117" alt="Portfolio"/>
 </a>
 &nbsp;
-<a href="mailto:nandu@email.com">
+<a href="nandusuresh61@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
-<a href="https://twitter.com/nandu" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 
 <br/><br/>
 
-> 💬 &nbsp; *Open to collaborations, freelance projects, and interesting conversations about tech!*
+> 💬 &nbsp; _Open to collaborations, freelance projects, and interesting conversations about tech!_
 
 </div>
 
@@ -234,7 +234,7 @@ Infra    → Docker + Nginx
 
 ![Visitor Count](https://profile-counter.glitch.me/nandu/count.svg)
 
-*👆 visitors have passed through — thanks for stopping by!*
+_👆 visitors have passed through — thanks for stopping by!_
 
 </div>
 
@@ -250,6 +250,6 @@ Infra    → Docker + Nginx
 
 <div align="center">
 
-*✨ Built with passion, caffeine, and a lot of `console.log()` debugging ✨*
+_✨ Built with passion, caffeine, and a lot of `console.log()` debugging ✨_
 
 </div>
