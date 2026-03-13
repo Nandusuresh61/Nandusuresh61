@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+there!+I'm+Nandu+%F0%9F%91%8B;MERN+Stack+Web+Developer+%F0%9F%9A%80;Building+Scalable+SaaS+Products+%F0%9F%8C%90;Clean+Code+%7C+Clean+Architecture+%7C+Clean+Coffee+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+there!+I'm+Nandu+Suresh+%F0%9F%91%8B;MERN+Stack+Web+Developer+%F0%9F%9A%80;Building+Scalable+SaaS+Products+%F0%9F%8C%90;Clean+Code+%7C+Clean+Architecture+%7C+Clean+Coffee+%E2%98%95)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,11 +21,11 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=nandu&style=for-the-badge&color=0d1117&labelColor=58a6ff&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Nandusuresh61&style=for-the-badge&color=0d1117&labelColor=58a6ff&label=PROFILE+VIEWS)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/nandu?style=for-the-badge&color=0d1117&labelColor=58a6ff&logo=github&label=FOLLOWERS)](https://github.com/nandu)
+[![GitHub followers](https://img.shields.io/github/followers/Nandusuresh61?style=for-the-badge&color=0d1117&labelColor=58a6ff&logo=github&label=FOLLOWERS)](https://github.com/Nandusuresh61)
 &nbsp;
-![GitHub Stars](https://img.shields.io/github/stars/nandu?style=for-the-badge&color=0d1117&labelColor=58a6ff&logo=github&label=STARS)
+![GitHub Stars](https://img.shields.io/github/stars/Nandusuresh61?style=for-the-badge&color=0d1117&labelColor=58a6ff&logo=github&label=STARS)
 
 </div>
 
@@ -39,7 +39,9 @@
 
 ```typescript
 const nandu = {
+  name: "Nandu Suresh",
   role: "MERN Stack Web Developer",
+  education: "Diploma in Electronics Engineering",
   location: "India 🇮🇳",
   focus: "Scalable SaaS & Clean Architecture",
   available: true,
@@ -54,7 +56,6 @@ I'm a passionate **MERN Stack Developer** who loves crafting **high-performance,
 - 🧠 &nbsp; Exploring **Redis**, **WebSockets**, and **event-driven architecture**
 - 💡 &nbsp; Passionate about **open source**, contributing and learning in the wild
 - 🎯 &nbsp; Goal: Ship products that are fast, reliable, and beautiful
-git 
 <br clear="right"/>
 
 ---
@@ -160,9 +161,9 @@ Infra    → Docker + Nginx
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nandusuresh61&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandusuresh61&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
 
 </div>
 
@@ -170,7 +171,7 @@ Infra    → Docker + Nginx
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nandu&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&stroke=58a6ff" alt="GitHub Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandusuresh61&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&stroke=58a6ff" alt="GitHub Streak Stats"/>
 
 </div>
 
@@ -182,7 +183,7 @@ Infra    → Docker + Nginx
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nandu&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f3a5f&hide_border=true&custom_title=Nandu's%20Contribution%20Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandusuresh61&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f3a5f&hide_border=true&custom_title=Nandusuresh61's%20Contribution%20Graph" width="95%"/>
 
 </div>
 
@@ -198,16 +199,12 @@ Infra    → Docker + Nginx
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://nandu.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff&labelColor=0d1117" alt="Portfolio"/>
+<a href="https://leetcode.com/u/nandusuresh20/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 &nbsp;
-<a href="nandusuresh61@gmail.com">
+<a href="mailto:nandusuresh61@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 
 <br/><br/>
@@ -232,7 +229,7 @@ Infra    → Docker + Nginx
 
 <br/><br/>
 
-![Visitor Count](https://profile-counter.glitch.me/nandu/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Nandusuresh61/count.svg)
 
 _👆 visitors have passed through — thanks for stopping by!_
 
