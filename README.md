@@ -229,7 +229,7 @@ Infra    → Docker + Nginx
 
 <br/><br/>
 
-![Visitor Count](https://profile-counter.glitch.me/Nandusuresh61/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=Nandusuresh61&label=Visitor%20Count&color=0d1117&style=for-the-badge)
 
 _👆 visitors have passed through — thanks for stopping by!_
 
